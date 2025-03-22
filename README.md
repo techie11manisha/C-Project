@@ -14,8 +14,5 @@ An Airline Reservation System built in C++ to manage airline bookings efficientl
 
 ---
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/imgaurav249/airline-reservation.git
+
 
